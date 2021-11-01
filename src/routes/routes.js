@@ -8,7 +8,7 @@ const ProductController = require('../controllers/products')
 // DELETE - REMOVER DADOS
 
 
-router.get('/products', ProductController.get)
+router.get('/products/:id?', ProductController.get)
 // router.post('/clientes', ProductController.post)
 // router.put('/clientes', ProductsControllers.put)
 // router.delete('/clientes', ProductsControllers.delete)
