@@ -9,7 +9,7 @@ const ProductController = require('../controllers/products')
 
 
 router.get('/products/:id?', ProductController.get)
-// router.post('/clientes', ProductController.post)
+router.post('/products', ProductController.post)
 // router.put('/clientes', ProductsControllers.put)
 // router.delete('/clientes', ProductsControllers.delete)
 
