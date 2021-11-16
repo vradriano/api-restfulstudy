@@ -3,7 +3,7 @@
 <hr>
 
 ## Descrição: 
-Repositório criado para fins de estudos, no entanto fiz a criação de um index simulando uma conexão consumindo a API(front-end), onde foi possível criar, editar, consultar e apagar dados ligados ao
+Repositório criado para fins de estudos, no entanto foi criado uma conexão front-end simulando uma conexão consumindo a API(front-end), onde foi possível criar, editar, consultar e apagar dados ligados ao
 banco de dados(MongoDB).
 ** Não foram usados estilos(css), apenas consulta, criação e exclusão de dados do MongoDB.
 
